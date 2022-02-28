@@ -36,18 +36,23 @@
     ],
     "versions": [
       {
-        "tag": "latest",
-        "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/begroten.tgz",
+        "tag": "previous",
+        "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/begroten.1.0.3.tgz",
         "number": "1.0.3"
+      },
+      {
+        "tag": "latest",
+        "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/begroten.2.0.0.tgz",
+        "number": "2.0.0"
       }
     ],
     "latest": {
       "tag": "latest",
-      "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/begroten.tgz",
-      "number": "1.0.3"
+      "file": "https://cdn.jsdelivr.net/gh/Amsterdam/openstad-ecosystem-templates/site/begroten.2.0.0.tgz",
+      "number": "2.0.0"
     },
     "createdAt": "2021-03-12T00:00:00.000Z",
-    "updatedAt": "2022-01-17T00:00:00.000Z"
+    "updatedAt": "2022-02-28T00:00:00.000Z"
   },
 
   {
